@@ -1,0 +1,4 @@
+The data for this case study is publicly available here https://divvy-tripdata.s3.amazonaws.com/index.html. 
+The data I used are 2021-02,03,04,05,11,12 months and 2022-01,02,03,04,11,12 months.
+Since these datasets are too large, I used Bigquery for analysis. I uploaded these datasets by creating bucket of google cloud storage.
+The data has been made available by Motivate international Inc. under this license https://ride.divvybikes.com/data-license-agreement
